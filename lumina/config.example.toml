@@ -1,2 +1,5 @@
 [MAIN]
 token = 'TOKEN_HERE'
+
+[GIPHY]
+api_key = ''
